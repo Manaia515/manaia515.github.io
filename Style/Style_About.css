@@ -1,0 +1,140 @@
+* {
+    font-family: Avenir;
+    margin:0;
+}
+
+body {
+    color: black;
+}
+
+.top-bar{
+    height: 24px;
+    background-color: black;
+    padding-top: 0;
+    width:100%;
+}
+
+.header-container{
+    align-content: center;
+    width: 1252px;
+    margin-left: 334px;
+    margin-right:334px;
+}
+
+.header{
+    margin-top: 12px;
+    }
+
+.navigation {
+    width: 553px;
+    font-size: 1.1em;
+    font-weight: lighter;
+    margin-top: 4.4em;
+    float: right;
+}
+
+.navigation li {
+    display: inline;
+    padding: 0 2%;
+}
+
+.navigation li a{
+    color: black;
+    display: inline-block;
+    padding: .5em;
+    text-decoration: none;
+}
+
+.navigation li a:hover {
+    background-color: black;
+    color:white;
+}
+
+.navigation li span a {
+    background-color: black;
+    color: white;
+}
+
+content .box-terry {
+	max-width: 1200px;
+	padding: 50px 0;
+	margin: 0 auto;
+  }
+
+.typo-box{
+margin-top: 94px;
+margin-left:107px;
+float: left;
+}
+
+.terry{
+	float: left;
+	margin-top: 94px;
+	margin-left: 32px;
+}
+
+.content{
+    float: left;
+    width: 50%;
+    font-size: .8em
+}
+
+.text{
+    margin-top: 316px;
+    margin-left:107px;
+	width:404px;
+}
+
+.graphic-bulb{
+    margin-top: 90px;
+    margin-right: 100px;
+    float: right;
+    width:276px;
+    height:468px;
+    
+}
+
+footer{
+        align-content: center;
+        margin-top: 693px;
+		bottom: 0;
+		position: fixed;
+        background-color: black;
+        color: white;
+        height: 150px;
+        width:100%;
+        font-size: .8em;
+        text-decoration: none;
+}
+
+footer .inner {
+	max-width: 1200px;
+	padding: 50px 0;
+	margin: 0 auto;
+  }
+ 
+  .copyright {
+	float: left;
+	width: 33%;
+  }
+  .impressum {
+	width: 33%;
+	float: left;
+	text-align: center;
+  }
+  
+  .impressum a {
+	color: white;
+	text-decoration: none;
+  }
+  
+  .address {
+	float: right;
+	width: 33%;
+	text-align: right
+  }
+  
+  .footer-content{
+	  align-content: center;
+	  display: inline-block;
+  }
